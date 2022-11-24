@@ -1,6 +1,8 @@
 **Required libraries:**
 customtkinter==4.6.3
+
 opencv_python_headless==4.6.0.66
+
 Pillow==9.3.0
 
 
